@@ -4,7 +4,7 @@
   "description": "todo: create a fucking todo list ffs!",
   "main": "index.js",
   "scripts": {
-	"start": "echo \"todo\" >> /tmp/todo"
+	"start": "nodemon index.js" 
   },
   "repository": {
     "type": "git",
