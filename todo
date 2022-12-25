@@ -1,1 +1,1 @@
-echo "todo fuck"	
+cat "*.sh"
