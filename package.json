@@ -1,0 +1,26 @@
+{
+  "name": "todo",
+  "version": "4.2.0",
+  "description": "todo: create a fucking todo list ffs!",
+  "main": "index.js",
+  "scripts": {
+	"start": "echo \"todo\" >> /tmp/todo"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/holdfastfasthold/todo.git"
+  },
+  "keywords": [
+    "fuck",
+    "todo"
+  ],
+  "author": "ungtb10d",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/holdfastfasthold/todo/issues"
+  },
+  "homepage": "https://github.com/holdfastfasthold/todo#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
